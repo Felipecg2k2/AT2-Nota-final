@@ -27,7 +27,7 @@ public class Aluno {
         } else if (media <= 9) {
             this.desempenho = "Aprovado";
         } else {
-            this.desempenho = "Ótimo Aproveitamento";
+            this.desempenho = "Ótimo Aproveitamento!";
         }
     }
     
